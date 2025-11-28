@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Repo to learn Docker with examples. Contributions are most welcome.
 
 ## If you found this repo useful, give it a STAR 🌠
@@ -360,3 +361,7 @@ latest: digest: sha256:6e49841ad9e720a7baedcd41f9b666fcd7b583151d0763fe78101bb82
 ```
 
 ### You must be feeling like a champ already 
+=======
+Docker
+Docker is containerization platform that provides easy way to contanarize your application which means using docker you can build image and run images to build container and push container to container registry such as DockerHub.
+>>>>>>> e492351a54bac6ee64e4dd1444467297370f393d
